@@ -15,6 +15,7 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Marvel and Games ❤️
 
+
 ## 💻 Technologies:
 
 ### Programing languages
@@ -52,7 +53,6 @@ Here are some ideas to get you started:-->
 <a href="https://linkedin.com/in/het-vaghasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IN" height="20" width="30" /> het-vaghasia</a><br><br>
 <a href="https://instagram.com/hetvaghasia.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="30" /> hetvaghasia.in</a>
 </p>
-
 
 
 ## My stats:
