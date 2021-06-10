@@ -7,8 +7,14 @@ Here are some ideas to get you started:-->
 
 <h1>I'm Het Vaghasia</h1>
 
+<div style="align: "center";>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hetvaghasia39)](https://github.com/hetvaghasia39/github-readme-stats)</div>
+<br>
+<br>
+<div style="align: "center";>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hetvaghasia39&show_icons=true&theme=radical)
+
 
 
 - 🔭 I’m currently working on Android, Flutter and Python Django
