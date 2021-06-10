@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 <h2>Connect with me:</h2>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hetvaghasia39)](https://github.com/hetvaghasia39/github-readme-stats)
+[![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=hetvaghasia39)](https://github.com/hetvaghasia39/github-readme-stats)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvaghasia39&layout=compact)](https://github.com/hetvaghasia39/github-readme-stats)
