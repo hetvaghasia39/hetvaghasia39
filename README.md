@@ -9,7 +9,6 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Android, Flutter and Python Django
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Referral
 - 💬 Ask me anything about Flutter, 
 - 📫 How to reach me: <a href="mailto:hetvaghasia39@gmail.com" target="blank">hetvaghasia39@gmail.com</a>
