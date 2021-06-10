@@ -10,7 +10,6 @@ Here are some ideas to get you started:-->
 <h2>Connect with me:</h2>
 <br>
 
-<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hetvaghasia39)](https://github.com/hetvaghasia39/github-readme-stats)
 <br>
 <br>
