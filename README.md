@@ -7,13 +7,10 @@ Here are some ideas to get you started:-->
 
 # I'm Het Vaghasia
 
-- 🔭 I’m currently working on Python and Django
+- 🔭 I’m currently working on Python
 - 🌱 I’m currently learning everything
 - 🤔 I’m looking for help with Referral
-- 💬 Ask me anything about Python and Django, 
 - 📫 How to reach me: <a href="mailto:hetvaghasia39@gmail.com" target="blank">hetvaghasia39@gmail.com</a>
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Python, Marvel and Games ❤️
 
 
 ## 💻 Technologies:
