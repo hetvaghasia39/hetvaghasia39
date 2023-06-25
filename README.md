@@ -32,15 +32,9 @@ Here are some ideas to get you started:-->
 
 ## 💬 Connect with me:
 <p align="left">
-<a href="mailto:hetvaghasia39@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Twitter" height="20" width="30" /> hetvaghasia39@gmail.com</a><br><br>
-<a href="https://twitter.com/VaghasiaHet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="30" /> VaghasiaHet</a><br><br>
-<a href="https://linkedin.com/in/het-vaghasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IN" height="20" width="30" /> het-vaghasia</a><br><br>
-<a href="https://instagram.com/hetvaghasia.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="30" /> hetvaghasia.in</a>
+<a href="mailto:hetvaghasia39@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Twitter" height="20" width="30" /> hetvaghasia39@gmail.com</a>  <a href="https://twitter.com/VaghasiaHet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="30" /> VaghasiaHet</a>  <a href="https://linkedin.com/in/het-vaghasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="IN" height="20" width="30" /> het-vaghasia</a>  <a href="https://instagram.com/hetvaghasia.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="20" width="30" /> hetvaghasia.in</a>
 </p>
 
 
 ## My stats:
-[![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=hetvaghasia39)](https://github.com/hetvaghasia39/github-readme-stats)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvaghasia39&layout=compact)](https://github.com/hetvaghasia39/github-readme-stats)
+[![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=hetvaghasia39)](https://github.com/hetvaghasia39/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetvaghasia39&layout=compact)](https://github.com/hetvaghasia39/github-readme-stats)
